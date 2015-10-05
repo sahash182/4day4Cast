@@ -203,7 +203,7 @@ angular.module('instaCity', ['ngRoute'])
         });
 
 
-    };
+    }
 
     $scope.savePhoto = function (photo) {
       // check if localStorage.photos doesn't exist yet
