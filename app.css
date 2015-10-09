@@ -26,6 +26,10 @@ h1{
 	background-color: black;
 	border: none;
 }
+.about{
+	font-size: 30px;
+	color: yellow;
+}
 #search-bar{
 	width: 340px;
 	margin: 0 auto;
@@ -42,7 +46,6 @@ h1{
 	text-align: center;
 }
 #about{
-	background-color: #BDBDBD;
 	margin: 0 auto;
 	float: none;
 	display: block;
